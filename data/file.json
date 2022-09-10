@@ -8,7 +8,7 @@
          "Ollu Prasad",
          "Vijayakumar Ganapathi",
          "Vinitha Gantyada"],
- "jql":"project = "SQQMP" and "Hour Claiming for month[Date]">="2022/09/01" ORDER BY created DESC",
+ "jql":"project = \"SQQMP\" and \"Hour Claiming for month[Date]\">="\2022/09/01\" ORDER BY created DESC",
 
  "hours_updated":{"Ollu Prasad":0,
                   "Avula Maheswaraiah":0,

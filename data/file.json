@@ -1,6 +1,6 @@
 {
- "month":"September",
- "working_day":22,
+ "month":"October",
+ "working_day":5,
  "name":["Adusumalli Krishnaveni",
          "Avula Maheswaraiah",
          "Chethan Kumar",
@@ -10,7 +10,7 @@
          "Ollu Prasad",
          "Vijayakumar Ganapathi",
          "Vinitha Gantyada"],
- "jql":"project = 'SQQMP' and 'Hour Claiming for month[Date]'>='2022/09/01' ORDER BY created DESC",
+ "jql":"project = 'SQQMP' and 'Hour Claiming for month[Date]'>='2022/10/01' ORDER BY created DESC",
 
  "hours_updated":{"Ollu Prasad":0,
                   "Avula Maheswaraiah":0,
@@ -31,13 +31,13 @@
                   "Adusumalli Krishnaveni":0,
                   "mansi singh":0},
  "personal_leaves":{"Ollu Prasad":0,
-                  "Avula Maheswaraiah":1,
-                  "Vijayakumar Ganapathi":3,
+                  "Avula Maheswaraiah":0,
+                  "Vijayakumar Ganapathi":0,
                   "Vinitha Gantyada":0,
                   "Farrukh Khan":0,
                   "Debajit Hore":0,
                   "Chethan Kumar":0,
                   "Adusumalli Krishnaveni":0,
-                  "mansi singh":5}
+                  "mansi singh":0}
 
 }

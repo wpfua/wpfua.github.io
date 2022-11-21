@@ -1,6 +1,6 @@
 {
  "month":"November",
- "working_day":14,
+ "working_day":19,
  "name":["Adusumalli Krishnaveni",
          "Avula Maheswaraiah",
          "Chethan Kumar",
@@ -37,7 +37,7 @@
                   "Farrukh Khan":1,
                   "Debajit Hore":1,
                   "Chethan Kumar":0,
-                  "Adusumalli Krishnaveni":0,
+                  "Adusumalli Krishnaveni":1,
                   "mansi singh":0}
 
 }
